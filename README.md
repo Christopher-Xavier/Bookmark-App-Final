@@ -3,12 +3,12 @@
 I can add bookmarks to my bookmarks list.
 Bookmarks contain:
 
-<https://thinkful-ei-panda.github.io/Christopher-Bookmarks-App/>
+<https://thinkful-ei-panda.github.io/Christopher-Bookmarks-App-Final/>
 
 A BookMark App
  Rating (1-5)
 
-I can see a list of my bookmarks when i first open app
+I can see a list of my bookmarks when I first open app
 
 All bookmarks in the list default to a "condensed" view showing only title and rating
 
